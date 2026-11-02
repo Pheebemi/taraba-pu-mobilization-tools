@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.zip
+*.jpg
+*.jpeg
+*.heic
+*.png
+jpg*/
+pu images/
+*-extract*/
+raw.csv.bak-*
